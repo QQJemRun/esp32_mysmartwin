@@ -1,0 +1,13 @@
+{
+    "base_config": {
+        "clientid": "ikl8SEBFw6a.ai_win_app|securemode=2,signmethod=hmacsha256,timestamp=1709816998493|",
+        "hostname": "iot-06z00a6l3gle6wu.mqtt.iothub.aliyuncs.com",
+        "password": "653c64ba1bc34b286c5f40be0c0d6b0d400d7aedb65597eb2b578befaf6cf32c",
+        "port": 1883,
+        "username": "ai_win_app&ikl8SEBFw6a"
+    },
+    "topic_config": {
+        "publish_topic": "/sys/ikl8SEBFw6a/ai_win_app/thing/event/property/post",
+        "subscribe_topic": "/sys/ikl8SEBFw6a/ai_win_app/thing/service/property/set"
+    }
+}

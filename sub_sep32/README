@@ -1,0 +1,28 @@
+本文件夹下为下位机example,主体为一个小风扇，由下位esp32控制
+
+结构如下
+
+.
+├── data
+├── .gitignore
+├── include
+│   └── README
+├── lib
+│   └── README
+├── partition.csv
+├── .pio
+│   ├── build
+│   └── libdeps                 空
+├── platformio.ini              项目文件
+├── README
+├── src
+│   └── main.cpp                主文件
+├── test
+│   └── README
+└── .vscode
+    ├── c_cpp_properties.json
+    ├── extensions.json
+    └── launch.json
+
+
+

@@ -1,0 +1,43 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "/home/run/\u6587\u6863/PlatformIO/Projects/my_bluetooth_musicbox/lib/audio-tools-0.9.7/_deps/portaudio-subbuild/CMakeFiles/portaudio-populate"
+		},
+		{
+			"file" : "/home/run/\u6587\u6863/PlatformIO/Projects/my_bluetooth_musicbox/lib/audio-tools-0.9.7/_deps/portaudio-subbuild/CMakeFiles/portaudio-populate.rule"
+		},
+		{
+			"file" : "/home/run/\u6587\u6863/PlatformIO/Projects/my_bluetooth_musicbox/lib/audio-tools-0.9.7/_deps/portaudio-subbuild/CMakeFiles/portaudio-populate-complete.rule"
+		},
+		{
+			"file" : "/home/run/\u6587\u6863/PlatformIO/Projects/my_bluetooth_musicbox/lib/audio-tools-0.9.7/_deps/portaudio-subbuild/portaudio-populate-prefix/src/portaudio-populate-stamp/portaudio-populate-build.rule"
+		},
+		{
+			"file" : "/home/run/\u6587\u6863/PlatformIO/Projects/my_bluetooth_musicbox/lib/audio-tools-0.9.7/_deps/portaudio-subbuild/portaudio-populate-prefix/src/portaudio-populate-stamp/portaudio-populate-configure.rule"
+		},
+		{
+			"file" : "/home/run/\u6587\u6863/PlatformIO/Projects/my_bluetooth_musicbox/lib/audio-tools-0.9.7/_deps/portaudio-subbuild/portaudio-populate-prefix/src/portaudio-populate-stamp/portaudio-populate-download.rule"
+		},
+		{
+			"file" : "/home/run/\u6587\u6863/PlatformIO/Projects/my_bluetooth_musicbox/lib/audio-tools-0.9.7/_deps/portaudio-subbuild/portaudio-populate-prefix/src/portaudio-populate-stamp/portaudio-populate-install.rule"
+		},
+		{
+			"file" : "/home/run/\u6587\u6863/PlatformIO/Projects/my_bluetooth_musicbox/lib/audio-tools-0.9.7/_deps/portaudio-subbuild/portaudio-populate-prefix/src/portaudio-populate-stamp/portaudio-populate-mkdir.rule"
+		},
+		{
+			"file" : "/home/run/\u6587\u6863/PlatformIO/Projects/my_bluetooth_musicbox/lib/audio-tools-0.9.7/_deps/portaudio-subbuild/portaudio-populate-prefix/src/portaudio-populate-stamp/portaudio-populate-patch.rule"
+		},
+		{
+			"file" : "/home/run/\u6587\u6863/PlatformIO/Projects/my_bluetooth_musicbox/lib/audio-tools-0.9.7/_deps/portaudio-subbuild/portaudio-populate-prefix/src/portaudio-populate-stamp/portaudio-populate-test.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"portaudio-populate"
+		],
+		"name" : "portaudio-populate"
+	}
+}

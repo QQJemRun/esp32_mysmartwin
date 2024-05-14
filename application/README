@@ -1,0 +1,43 @@
+本文件夹下为本系统app程序源文件目录
+
+结构如下：
+
+.
+├── ai_win.pro                      Qt项目文件，使用qmake
+├── ai_win.pro.user                 项目本地配置
+├── ai_win_res.qrc                  Qt资源文件
+├── AndroidManifest.xml             Android构建资源表
+├── android_openssl                 预构建的android openssl库
+│   ├── android_openssl.cmake
+│   ├── build_ssl.sh
+│   ├── CMakeLists.txt
+│   ├── LICENSE
+│   ├── no-asm
+│   ├── openssl.pri
+│   ├── README.md
+│   ├── ssl_1.1
+│   └── ssl_3
+├── config.json                     阿里云mqtt配置
+├── fans_1.png                      下位机图标_1
+├── fans_2.png                      下位机图标_2
+├── icon_2.png                      应用图标
+├── main.cpp                        
+├── mqtt_win.cpp                    mqtt客户端实现
+├── mqtt_win.h                      mqtt定义
+├── mqtt_win.ui                     mqttwin配置
+├── README
+├── res                             android资源
+│   ├── drawable-hdpi
+│   ├── drawable-ldpi
+│   ├── drawable-mdpi
+│   ├── drawable-xhdpi
+│   ├── drawable-xxhdpi
+│   └── drawable-xxxhdpi
+├── widget.cpp                      主widget
+├── widget.h                
+├── widget.ui
+├── win_closing.png                 小窗图标_1
+└── win_openning.png                小窗图标_2
+
+
+
