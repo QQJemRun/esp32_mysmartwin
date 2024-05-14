@@ -1,1 +1,0 @@
-spiffs_create_partition_image(spiffs data)
