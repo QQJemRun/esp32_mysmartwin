@@ -1,0 +1,10 @@
+<RCC>
+    <qresource prefix="/">
+        <file>win_closing.png</file>
+        <file>win_openning.png</file>
+        <file>icon_2.png</file>
+        <file>fans_1.png</file>
+        <file>fans_2.png</file>
+        <file>../../../图片/我的/icon_2.png</file>
+    </qresource>
+</RCC>
